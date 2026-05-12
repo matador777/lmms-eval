@@ -276,3 +276,4 @@ Below are the changes we made to the original API:
     year={2024}
 }
 ```
+Refactor backend structure
